@@ -1,5 +1,8 @@
 # gspread-collect
-Collecting Data from Google Sheet
+Collecting Data from Google Sheet using Google Sheet API
+
+## Objectives
+- Run on cloud environent or inhouse mini pc to daily collecting data from google sheet
 
 ## Setup
 ### Enable Google Sheets API
